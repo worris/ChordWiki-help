@@ -32,3 +32,5 @@
 
     {key:キー}
 （移調前の）キーを記入します。
+
+##[ChordWiki独自拡張](ChordWiki独自拡張.md)
