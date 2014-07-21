@@ -4,6 +4,7 @@
 
 #目次
 
-[chordpro記法](chordpro記法.md)
+* [chordpro記法](chordpro記法.md)
+    * [ChordWiki独自拡張](ChordWiki独自拡張.md)
 
-[ChordWiki独自拡張](ChordWiki独自拡張.md)
+* [よくある質問](FAQ.md)
